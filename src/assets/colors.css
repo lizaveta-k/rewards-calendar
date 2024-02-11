@@ -1,0 +1,11 @@
+:root {
+  --primary-color: #dff2ee;
+  --primary-bg: white;
+  --secondary-bg: #f0f0f0;
+  --border-color: lightgrey;
+  --text-color: #3c4043;
+  --note-header-bg: #f8fa6ee9;
+  --note-body-bg: #feff9c;
+  --alert-color: #ff6961;
+  --modal-backdrop-bg: #0000004d;
+}
